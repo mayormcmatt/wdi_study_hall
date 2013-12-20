@@ -8,3 +8,4 @@ completed = gets.chomp
 puts "Oh, I see: #{completed} assignments. That's...great?"
 
 #Comment to change the file so I can commit to Git"
+#Another comment
